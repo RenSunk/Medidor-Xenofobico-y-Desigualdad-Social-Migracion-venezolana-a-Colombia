@@ -1,4 +1,5 @@
 librerias python:
+
   pip install flask
   pip install flask_restful
   pip install flask_mysqldb
@@ -6,6 +7,7 @@ librerias python:
   pip install StanfordCoreNLP
   
 librerias javascript:
+
   nota: las librerias de javascript ya estan integradas en el codigo, no es nesesario descargar
   https://wordcloud2-js.timdream.org/#love
   https://www.chartjs.org/
