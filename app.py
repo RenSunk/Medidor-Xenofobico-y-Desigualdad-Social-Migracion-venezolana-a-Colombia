@@ -100,7 +100,7 @@ palabrasvac += ['total', 'tras', 'trata', 'través', 'tres', 'tuvo']
 palabrasvac += ['un', 'una', 'unas', 'uno', 'unos', 'usted', 'va']
 palabrasvac += ['vamos', 'van', 'varias', 'varios', 'veces', 'ver']
 palabrasvac += ['vez', 'y', 'ya', 'yo']
-
+palabrasvac += ['te', 'tu', 'soy', 'eso', 'q']
 
 class Helloworld(Resource):
     def get(self,numero):

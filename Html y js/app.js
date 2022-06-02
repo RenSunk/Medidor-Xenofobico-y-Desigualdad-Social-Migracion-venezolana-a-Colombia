@@ -7,7 +7,7 @@ document.getElementById("submit").addEventListener("submit", (event) => {
   let fechaI = document.getElementById("fechaI").value;
   let fechaF = document.getElementById("fechaF").value;
   let ubicacion = document.getElementById("ubicacion").value;
-
+  
   if (fechaI !== "" && fechaF !== "") {
     lista.innerHTML = `
     <div class="spinner">
