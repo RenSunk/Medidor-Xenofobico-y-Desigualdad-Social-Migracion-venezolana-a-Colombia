@@ -1,3 +1,5 @@
+PROYECTO NO DISPONIBLE POR QUE LA API DE TWITTER DEJO DE SER GRATIS :C
+
 librerias python:
 
   -pip install flask
